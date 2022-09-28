@@ -1,0 +1,40 @@
+body{
+    height: 1000px;
+    background: linear-gradient(to top left, powderblue, pink);}
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: larger;
+div{
+    display: block;
+}
+.heading{
+    height: 300px;
+    margin-top: 20px;
+}
+
+.qwe{
+   display: inline-block;
+  padding-right:10px;
+}
+.butln{
+   margin-left: 15px;
+   margin-bottom:10px;
+}
+.Menu{
+  margin-left: 15px;
+}
+.firstbutton{
+  margin-bottom:10px;
+}
+.secondbutton{
+  margin-bottom:10px;
+}
+.thirdbutton{
+    margin-bottom:10px;
+}
+.fourthbutton{
+      margin-bottom:10px;
+}
+.lenght{
+   margin-bottom:10px;
+}
